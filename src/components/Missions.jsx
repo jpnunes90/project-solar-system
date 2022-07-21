@@ -10,7 +10,7 @@ class Missions extends React.Component {
         key={ mission.name }
         name={ mission.name }
         year={ mission.year }
-        country={mission.country }
+        country={ mission.country }
         destination={ mission.destination }
       />));
     return (
