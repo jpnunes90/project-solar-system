@@ -1,1 +1,1 @@
-Projeto dp bloco 2, Backending, aplicação baseada em React.
+Projeto dp bloco 2, front-end, aplicação baseada em React.
