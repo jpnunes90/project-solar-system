@@ -1,3 +1,34 @@
-.App {
+* {
+  margin: 0;
+  border: 1px solid black;
+}
+
+
+body {
+  /* background-image: url(./images/background.png); */
+}
+
+header {
+  /* color: white; */
+  font-size: 50px;
   text-align: center;
 }
+
+/* .class */
+
+.planet-card-container {
+  height: 200px;
+  width: 250px;
+}
+
+.planet-image {
+  height: 80%;
+  width: 80%;
+}
+
+.solar-system {
+  display: inline-block;
+
+}
+
+/* #id */
